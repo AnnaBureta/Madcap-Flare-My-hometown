@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MarkdownImport ImportFolder="13_Import" LastImport="2022-02-26T11:51:05.4221956+01:00">
+    <Files>
+        <Url Source="../../../../../Users/Test/OneDrive/Dokumenty/GitHub/Pros-and-cons/index.md" AbsoluteSource="file:///C:/Users/Test/OneDrive/Dokumenty/GitHub/Pros-and-cons/index.md" />
+    </Files>
+    <ExcludedFiles />
+    <CollectedSourceFiles />
+    <SkippedSourceFiles />
+    <GeneratedFiles>
+        <Url Source="../../Content/13_Import/Pros-and-cons of Confluence,.htm" TimeStamp="26.02.2022 11:50:50" />
+        <Url Source="../../Content/13_Import/Confluence.htm" TimeStamp="26.02.2022 11:50:50" />
+        <Url Source="../../Content/13_Import/Jira.htm" TimeStamp="26.02.2022 11:50:50" />
+        <Url Source="../../Content/13_Import/Flare.htm" TimeStamp="26.02.2022 11:50:50" />
+        <Url Source="../TOCs/MarkdownImport.fltoc" TimeStamp="26.02.2022 11:50:50" />
+        <Url Source="../../Content/Resources/Stylesheets/MarkdownImport.css" TimeStamp="26.02.2022 11:50:50" />
+    </GeneratedFiles>
+    <Styles>
+        <Map From="blockquote" To="blockquote" Style="Block" />
+        <Map From="h1" To="h1" Style="Block" />
+        <Map From="h2" To="h2" Style="Block" />
+        <Map From="h3" To="h3" Style="Block" />
+        <Map From="h4" To="h4" Style="Block" />
+        <Map From="h5" To="h5" Style="Block" />
+        <Map From="h6" To="h6" Style="Block" />
+        <Map From="MadCap:equation" To="MadCap:equation" Style="Block" />
+        <Map From="p" To="p" Style="Block" />
+        <Map From="pre" To="MadCap:codeSnippet" Style="Block" />
+        <Map From="a" To="a" Style="Inline" />
+        <Map From="MadCap:equation" To="MadCap:equation" Style="Inline" />
+        <Map From="li" To="li" Style="List" />
+        <Map From="ol" To="ol" Style="List" />
+        <Map From="ul" To="ul" Style="List" />
+        <Map From="dd" To="dd" Style="Definition List" />
+        <Map From="dl" To="dl" Style="Definition List" />
+        <Map From="dt" To="dt" Style="Definition List" />
+    </Styles>
+    <NewTopicStyles>
+        <Style Tag="h1" />
+    </NewTopicStyles>
+</MarkdownImport>
