@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MsWordImport PreserveMappedStyles="True" CreateNewStylesheet="True" InlineFormatting="Convert" UseFirstHeadingAsTopicTitle="True" UseMaxCharLimit="False" MaxCharLimit="10000" UseMinCharLimit="True" MinCharLimit="50" AddContinuedLinks="False" ContinuedLinkFormat="(continued in {title})" AddContinuedFromLinks="False" ContinuedFromLinkFormat="(continued from {title})" FilenameLength="24" AutoFitTables="False" UseHeaderRows="False" TableStyles="NewTableStyleSheets" UseListBullets="True" ConvertEquations="True" GeneratePageLayouts="False" PageBreaks="Convert" KeepSourceLinks="False" AutoSync="False" ImportFolder="13_Import" LastImport="2022-02-26T11:34:47.7785878+01:00">
+    <Files>
+        <Url Source="../../Puławy.docx" AbsoluteSource="file:///C:/Flare/Vistula/My_hometown/Puławy.docx" />
+    </Files>
+    <ExcludedFiles />
+    <CollectedSourceFiles />
+    <SkippedSourceFiles />
+    <GeneratedFiles>
+        <Url Source="../../Content/Resources/Images/Puławy/Location and transport.jpg" TimeStamp="26.02.2022 11:30:57" />
+        <Url Source="../../Content/Resources/Images/Puławy/Location and transport_1.jpg" TimeStamp="26.02.2022 11:30:57" />
+        <Url Source="../../Content/Resources/Images/Puławy/Location and transport_2.jpg" TimeStamp="26.02.2022 11:30:57" />
+        <Url Source="../../Content/Resources/Images/Puławy/Location and transport_3.jpg" TimeStamp="26.02.2022 11:30:57" />
+        <Url Source="../../Content/Resources/Images/Puławy/Location and transport_4.jpg" TimeStamp="26.02.2022 11:30:57" />
+        <Url Source="../../Content/Resources/Images/Puławy/Location and transport_5.jpg" TimeStamp="26.02.2022 11:30:57" />
+        <Url Source="../../Content/Resources/Images/Puławy/Location and transport_6.jpg" TimeStamp="26.02.2022 11:30:57" />
+        <Url Source="../../Content/Resources/Images/Puławy/Location and transport_7.jpg" TimeStamp="26.02.2022 11:30:57" />
+        <Url Source="../../Content/Resources/Images/Puławy/Location and transport_8.jpg" TimeStamp="26.02.2022 11:30:57" />
+        <Url Source="../../Content/Resources/Images/Puławy/Location and transport_9.jpg" TimeStamp="26.02.2022 11:30:57" />
+        <Url Source="../../Content/Resources/Images/Puławy/Location and transport_10.jpg" TimeStamp="26.02.2022 11:30:57" />
+        <Url Source="../../Content/Resources/Images/Puławy/Location and transport_11.jpg" TimeStamp="26.02.2022 11:30:57" />
+        <Url Source="../../Content/Resources/Images/Puławy/Location and transport.png" TimeStamp="26.02.2022 11:30:57" />
+        <Url Source="../../Content/Resources/Images/Puławy/Location and transport_1.png" TimeStamp="26.02.2022 11:30:58" />
+        <Url Source="../../Content/Resources/Images/Puławy/Location and transport_2.png" TimeStamp="26.02.2022 11:30:58" />
+        <Url Source="../../Content/Resources/Images/Puławy/Location and transport_3.png" TimeStamp="26.02.2022 11:30:58" />
+        <Url Source="../../Content/Resources/Images/Puławy/Location and transport_4.png" TimeStamp="26.02.2022 11:30:58" />
+        <Url Source="../../Content/Resources/Images/Puławy/Location and transport_5.png" TimeStamp="26.02.2022 11:30:58" />
+        <Url Source="../../Content/Resources/Images/Puławy/Location and transport_6.png" TimeStamp="26.02.2022 11:30:58" />
+        <Url Source="../../Content/13_Import/Location and transport.htm" TimeStamp="26.02.2022 11:30:58" />
+        <Url Source="../TOCs/NewImport.fltoc" TimeStamp="26.02.2022 11:30:58" />
+        <Url Source="../../Content/Resources/Stylesheets/NewImport.css" TimeStamp="26.02.2022 11:30:58" />
+    </GeneratedFiles>
+    <ParagraphStyles>
+        <Map From="gallerybox" To="p.gallerybox" Style="Word" />
+        <Map From="Nagłówek 2" To="p.Nagłówek2" Style="Word" />
+        <Map From="Nagłówek 3" To="p.Nagłówek3" Style="Word" />
+        <Map From="Normalny (Web)" To="p.NormalnyWeb" Style="Word" />
+    </ParagraphStyles>
+    <CharacterStyles />
+    <NewTopicStyles />
+</MsWordImport>

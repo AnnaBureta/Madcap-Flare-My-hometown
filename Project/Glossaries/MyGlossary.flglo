@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultGlossary>
+  <GlossaryEntry
+    glossTerm="MyGlossary.Term0"
+    Stem=""
+    IgnoreCase="false">
+    <Terms>
+      <Term>Vistula</Term>
+    </Terms>
+    <Definition
+      Link="">the longest river of Poland</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="MyGlossary.Term1"
+    Stem=""
+    IgnoreCase="false">
+    <Terms>
+      <Term>Voivodeship</Term>
+    </Terms>
+    <Definition
+      Link="">the highest level unit of local administration in Poland</Definition>
+  </GlossaryEntry>
+</CatapultGlossary>

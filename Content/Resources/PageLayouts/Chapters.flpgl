@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PageStyles>
+    <Page Name="Normal" Width="7in" Height="9in" Padding="20px" PageSize="Letter" PageType="normal" PaddingLeft="0" PaddingRight="0" PaddingTop="0" PaddingBottom="0" Orientation="portrait" BleedLeft="0.25in" BleedRight="0.25in" BleedTop="0.25in" BleedBottom="0.25in" BackgroundType="GradientNS" BackgroundColor="#ffffff" BackgroundColorAlt="#f5f5f5">
+        <Frame Flow="body" ColumnCount="1" Anchors="Left,Right,Top,Bottom" PaddingLeft="0in" PaddingRight="0in" PaddingTop="0in" PaddingBottom="0in" X="0.4479167in" Y="0.59375in" Right="0.875in" Bottom="98px" Width="689px" Height="901px">
+        </Frame>
+        <Frame X="43px" Y="1001px" Width="747px" Height="42px" Flow="footer" Right="26px" Bottom="13px" Anchors="Left,Right,Bottom" TextAlign="center" VerticalAlign="top" BorderTopStyle="solid" BorderTopWidth="1px" BorderTopColor="#d0d3d5" PaddingTop="0" BackgroundColor="#f5f5f5" BackgroundColorAlt="#dcdcdc" BackgroundType="Solid">
+            <Content>
+                <xhtml:html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                    <xhtml:head>
+                    </xhtml:head>
+                    <xhtml:body>
+                        <xhtml:table xhtml:style="width: 100%;">
+                            <xhtml:col xhtml:style="width: 111px;" />
+                            <xhtml:col />
+                            <xhtml:tbody>
+                                <xhtml:tr>
+                                    <xhtml:td>
+                                        <xhtml:p xhtml:class="frame-footer-page-number"><MadCap:variable xhtml:name="Heading.AnyLevel" />
+                                        </xhtml:p>
+                                    </xhtml:td>
+                                    <xhtml:td>
+                                        <xhtml:p xhtml:class="frame-footer-page-number"><MadCap:variable xhtml:name="System.PageNumber" />
+                                        </xhtml:p>
+                                    </xhtml:td>
+                                </xhtml:tr>
+                            </xhtml:tbody>
+                        </xhtml:table>
+                    </xhtml:body>
+                </xhtml:html>
+            </Content>
+        </Frame>
+    </Page>
+</PageStyles>

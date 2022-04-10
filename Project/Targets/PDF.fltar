@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget
+  Version="2"
+  Comment=""
+  Type="PDF"
+  Destinations=""
+  GlossaryTermConversion="marked"
+  ConditionTagExpression="include[Default.PrintOnly] exclude[Default.ScreenOnly] "
+  PatchHeadingLevels="true"
+  InjectEmptyPages="false"
+  MasterPageLayout="/Content/Resources/PageLayouts/Frontmatter.flpgl"
+  MasterToc="/Project/TOCs/My_hometown_TOC_PDF.fltoc">
+  <PrintedOutput
+    CollapseMargins="false"
+    ExpandingTextConversion="expand"
+    PopupConversion="footnote"
+    GenerateTOCProxy="true"
+    GenerateIndexProxy="true"
+    GenerateGlossaryProxy="false"
+    OutputFormat="doc" />
+  <DocumentProperties
+    Title="My hometown PDF"
+    Author="Anna Bureta" />
+  <PDF
+    ShowUsedBookmarks="false"
+    InitialMagnification="50"
+    PageLayout="TwoColumnRight"
+    TitleBar="DocumentTitle"
+    CollapsedBookmarks="true"
+    CropAndRegistrationMarks="false"
+    ConvertToCMYK="true"
+    DownsampleImages="true" />
+</CatapultTarget>
