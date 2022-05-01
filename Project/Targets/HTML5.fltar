@@ -11,7 +11,8 @@
   Skin="/Project/Skins/Side-Navigation.flskn"
   GenerateWebSafeImages="false"
   TopNavTocPath="true"
-  PreCompileScaledImages="true">
+  PreCompileScaledImages="true"
+  OutputFile="index">
   <PrintedOutput
     CollapseMargins="true"
     GenerateTOCProxy="true"
