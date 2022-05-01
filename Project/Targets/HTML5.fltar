@@ -12,7 +12,7 @@
   GenerateWebSafeImages="false"
   TopNavTocPath="true"
   PreCompileScaledImages="true"
-  OutputFile="index">
+  OutputFile="index.htm">
   <PrintedOutput
     CollapseMargins="true"
     GenerateTOCProxy="true"
