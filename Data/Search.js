@@ -1,0 +1,1 @@
+define({r:0.5,st:'Stem',n:1,t:[0],m:[],u:['../Content/01_Home page/Home page.htm'],s:['000','track'],p:[['000',3],['forestry',12],['pulawy',0]]});

@@ -1,0 +1,1 @@
+define({'Vistula':{d:'the longest river of Poland',l:''},'Voivodeship':{d:'the highest level unit of local administration in Poland',l:''}});
